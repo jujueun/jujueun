@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1>Hi, I'm jueun kim</h1>
+<p>
+  <em>
+    <h3>
+      프론트엔드 개발자가 되기위한 시작
+    </h3>
+  </em>
+</p>
 
-<!--
-**jujueun/jujueun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>My tech stack</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![html5](https://img.shields.io/badge/-html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![ReactNative](https://img.shields.io/badge/-reactnative-black?style=for-the-badge&logo=react)
+
+
+
