@@ -2,7 +2,7 @@
 <p>
   <em>
     <h3>
-      프론트엔드 개발자가 되기위한 시작
+      Start to become a front-end developer!
     </h3>
   </em>
 </p>
